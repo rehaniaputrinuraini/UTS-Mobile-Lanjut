@@ -27,4 +27,18 @@
     <string name="exit">Exit</string>
     <string name="play_again">Play Again</string>
     <string name="wrong_guess">Wrong Guess!</string>
+
+    <!-- Add Word Feature -->
+    <string name="add_word_title">Add New Word</string>
+    <string name="add_new_word">Add New Word</string>
+    <string name="add_word_instruction">Add Word to Dictionary</string>
+    <string name="add_word_description">Enter a new word to add to the game\'s word list</string>
+    <string name="enter_new_word">Enter new word</string>
+    <string name="word_placeholder">e.g., "computer"</string>
+    <string name="save_word">Save Word</string>
+    <string name="success">Success!</string>
+    <string name="word_added_success">Word has been added successfully!</string>
+    <string name="error">Error</string>
+    <string name="ok">OK</string>
+    <string name="back">Back</string>
 </resources>
